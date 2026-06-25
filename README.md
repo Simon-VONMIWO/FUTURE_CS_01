@@ -1,10 +1,6 @@
 # FUTURE_CS_01
 Cyber Security Internship Projects - Future Interns
 
-# FUTURE_CS_01
-
-## Cyber Security Internship - Future Interns
-
 This repository contains my cybersecurity internship projects.
 
 ## Tasks
